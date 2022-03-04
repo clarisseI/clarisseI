@@ -38,7 +38,7 @@
 <p>
   <a href="https://www.linkedin.com/in/clarisse-ilibagiza-umulisa-b0a80917b/"><img src="https://img.shields.io/badge/-Clarisse%20Ilibagiza%20Umulisa-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white"></a>
 <a href="mailto:ilibagizaclarisse@gmail.com"><img src="https://img.shields.io/badge/-ilibagizaclarisse@gmail.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/umulisa___"><img src="https://img.shields.io/badge/-@umulisa___-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white"></a>
+
 
 </p>
 
