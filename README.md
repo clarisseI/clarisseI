@@ -5,9 +5,18 @@
  
  <h1 id="🤝--About-Me" style="position:relative;"><a href="#%F0%9F%A4%9D--About-Me" aria-label="🤝 About-Me permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" ></path></svg></a>👨🏻‍💻 &nbsp;About Me</h1>
  
- <p> 💡 &nbsp; passionate about creating technologies to elevate and empower young women.<br>
-  🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the Duquesne University.<br>
-🌱 &nbsp;I’m on track of learning Appian and other Automation tools. <br>
+
+  <br>  Interned with AARP Experience Corps as a technology and support intern from March to December 2021
+  🎓 &nbsp Currently, I'm a senior studying computer science and minoring in math with a focus on software and web development
+  <br>
+🌱 &nbsp;I’m on track of learning Appian and other Automation tools. 
+I am seeking a position in which I can utilize my skills and knowledge to make a great impact.
+<br>
+ 💡 &nbsp;  It is my dream to create a platform that will allow young black women to find their way into the tech industry.
+  
+  
+
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h2 id="--Languages-and-Tools" style="position:relative;"><a href="#--Languages-and-Tools" aria-label="  Languages-and-Tools permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd"></path></svg></a>🛠 &nbsp;Languages and Tools</h2>
