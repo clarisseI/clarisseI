@@ -16,9 +16,9 @@
 
 <h2 id="--Languages-and-Tools" style="position:relative;"><a href="#--Languages-and-Tools" aria-label="  Languages-and-Tools permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd"></path></svg></a>🛠 &nbsp;Languages and Tools</h2>
 
-<p> <b>Programming Language: </b  
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
+<p> <b>Programming Language:   </b  
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
   
   </p>
   
