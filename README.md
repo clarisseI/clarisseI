@@ -15,7 +15,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h2 id="--Languages-and-Tools" style="position:relative;"><a href="#--Languages-and-Tools" aria-label="  Languages-and-Tools permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd"></path></svg></a>🛠 &nbsp;Languages and Tools</h2>
-<p> Programming Language:
+<p> <b>Programming Language: </b Java, JavaScript </p>
+
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
  
   <img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React">&nbsp;
