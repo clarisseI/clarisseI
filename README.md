@@ -15,6 +15,29 @@
 
 
 <h2 id="--Languages-and-Tools" style="position:relative;"><a href="#--Languages-and-Tools" aria-label="  Languages-and-Tools permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd"></path></svg></a>🛠 &nbsp;Languages and Tools</h2>
+Technical Skills
+Prog. Languages:                               Java, JavaScript, Typescript
+Scripting Languages:                         Shell Scripting
+Web (Frontend) Tech:                       HTML 5, CSS 3, JavaScript ES6, Bootstrap 4, Angular 2/4/6/7/8
+Web (Backend) Tech.:                       Spring Boot REST API Web Services, Data JPA, JPA, Hibernate
+Messaging Tech:                                Microservices with Kafka
+RDBMS Database:                             Oracle 12c/10g/9i, MySql
+NoSQL Database:                              MongoDB
+Build Tools:                                         Maven
+Version Controls:        	                  GitHub, Bit Bucket
+CI Tools:                                               Jenkins
+Cont. & Orch. Tech		    Docker, Docker Hub, Kubernetes.
+Cloud Providers:                                 AWS
+Web Servers:                                       JBoss, WebSphere, WebLogic, Tomcat 7.0, 8.0.
+IDE(s):                                                   Eclipse, Spring Tool Suite (STS), Visual Studio Code.
+Dev Methodologies:                          Agile and Waterfall
+Development Tools:                           TOAD, SQL Developer, Putty.
+Operating Systems:                            Sun Solaris, UNIX, Linux, Windows.
+
+
+
+
+
 
 <p> <b>Programming Language:   </b  
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
