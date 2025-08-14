@@ -1,38 +1,19 @@
-<p>
-  
-</p>
+# 👋 Hi, I’m Clarisse Umulisa  
 
- 
- <h1 id="🤝--About-Me" style="position:relative;"><a href="#%F0%9F%A4%9D--About-Me" aria-label="🤝 About-Me permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" ></path></svg></a>👨🏻‍💻 &nbsp;About Me</h1>
- 
+🎓 **M.S. Computer Science candidate** at Duquesne University with a B.S. in Computer Science  
+💼 **2× Rocket Companies Software Engineer Intern** | Teaching Assistant | Startup experience  
+💻 Passionate about **full-stack & cloud development**, building scalable, user-focused applications  
 
-  <br>   Collaborative and flexible grad student in with a B.Sc. in Computer Science looking for an Entry-Level or internship position in Development of Responsive and Scalable Software & Web Applications to solve problems that delight end-users. Key Qualifications include Computer Science coursework in Algorithm Design, Computer Security, Database & Operating Systems, and work experience working with Data management and end-user support. Motivated and eager to learn from senior engineers while sharing ideas in an environment that values personal growth.
+## 🛠 Tech Stack
+- **Languages:** Java, Python, TypeScript, JavaScript, C++, SQL (Postgres, SQLite), R, MongoDB  
+- **Frameworks & Tools:** React, Node.js, AWS, Docker, Kubernetes, CI/CD (CircleCI, GitHub Actions)  
+- **Other Skills:** Test-Driven Development, Software Requirements Engineering, Agile Practices  
 
-  
-  
+## 🚀 Notable Projects
+- **Crypto App:** ReactJS app showing cryptocurrency prices, daily changes, and news  
+- **Day Travel:** Map-based app to explore restaurants, hotels, and attractions using Google Maps API  
+- **Alexa Skill for AARP Foundation:** Improved efficiency for 1,000+ users by streamlining data access  
 
-<h2 id="--SKILLS" style="position:relative;"><a href="#--Technical Skills" aria-label="  Languages-and-Tools permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd"></path></svg></a>🛠 &nbsp;Technical Skills</h2>
-
-
-Languages: Java, Python, Typescript, JavaScript, C++, SQL(Postgres, SQLite), R, MongoDB 
-Frameworks/Technologies: ReactJS, Node.js AWS, Docker, Kubernetes, CircleCI, GitHub Actions
-Others: Test-Driven Development, Software Requirements Engineering, Continuous Integration/Delivery (CI/D)
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
+## 📫 Let’s Connect!
+- **LinkedIn:** [linkedin.com/in/clarisseumulisa](https://linkedin.com/in/clarisseumulisa)  
+- **Email:** ilibagizaclarisse@gmail.com 
